@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "[old] Como configurar o windows para desenvolvimento com WSL 2"
+description: "Passo a passo para configurar o WSL 2 no Windows: instalar uma distro Linux, preparar o ambiente, configurar o zsh e o Windows Terminal."
 date:   2022-03-15 13:00:00 -0300
 permalink: /:categories/:year/:title
 categories: tutorial

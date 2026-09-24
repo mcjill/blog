@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Configuração do Windows para desenvolvimento"
+description: "Guia atualizado para preparar o Windows para desenvolvimento com WSL 2, Windows Terminal, zsh, powerlevel10k, Terraform, gcloud, GitHub CLI e Python."
 date:   2023-05-26 15:40:00 -0300
 permalink: /:categories/:year/:title
 categories: tutorial
