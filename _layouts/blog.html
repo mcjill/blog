@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+{% include head.html %}
+
+<body>
+    {% include gtm-noscript.html %}
+    {% include header.html %}
+    <main>
+        {{ content }}
+    </main>
+    {% include footer.html %}
+    {% include scripts.html %}
+</body>
+
+</html>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tudo que você precisa saber pra usar Docker"
+description: "O que é Docker e quando usar: Dockerfile, build, run, publicação de imagens, Docker Compose e hot reload, com exemplos práticos."
 date:   2023-06-13 11:40:00 -0300
 permalink: /:categories/:year/:title
 categories: serie

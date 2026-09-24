@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tudo que você precisa saber pra usar Terraform"
+description: "O que é Terraform e infraestrutura como código: instalação, providers, backends, variables, resources, modules e outputs, com repositório de exemplo."
 date:   2023-07-11 17:40:00 -0300
 permalink: /:categories/:year/:title
 categories: serie

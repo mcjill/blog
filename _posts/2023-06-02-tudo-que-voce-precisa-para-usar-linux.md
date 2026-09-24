@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tudo que você precisa saber pra usar Linux"
+description: "O que é Linux, quando usar, por onde começar e os comandos de terminal que você precisa saber, com respostas às dúvidas mais comuns."
 date:   2023-06-02 20:40:00 -0300
 permalink: /:categories/:year/:title
 categories: serie
